@@ -79,3 +79,5 @@ FREE university courses in ML from Top Universities in CS
 * **University of California, Berkeley**  
 [Berkley Courses](https://www2.eecs.berkeley.edu/Courses/CS/)
 
+
+**Kaggle discussion** [**here**](https://www.kaggle.com/getting-started/211633)
