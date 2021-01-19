@@ -54,6 +54,9 @@ FREE university courses in ML from Top Universities in CS
 * **University of Pennsylvania**  
 [CIS520: Machine Learning](https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Lectures.Lectures) [2020] | [notes](https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Resources.Resources)  
 
+* **Purdue University**  
+[STAT598: Machine Learning](https://engineering.purdue.edu/ChanGroup/ECE595/video.html) [Spring 2020]
+
 
 **Archived**  
 
