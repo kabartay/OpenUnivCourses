@@ -54,10 +54,10 @@ FREE university courses in ML from Top Universities in CS
 * **University of Pennsylvania**  
 [CIS520: Machine Learning](https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Lectures.Lectures) [2020] | [notes](https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Resources.Resources)  
 
-* **University of Chicago**
-[CMSC35300: Mathematical Foundations of Machine Learning](https://voices.uchicago.edu/willett/teaching/mathematical-foundations-of-machine-learning-fall-2020/) [Autumn 2020] by [Rebecca Willett](https://voices.uchicago.edu/willett/)
-[CMSC35400: Machine Learning](https://voices.uchicago.edu/machinelearning/stats37710-cmsc35400-s20/) [Spring 2020] by [Rebecca Willett](https://voices.uchicago.edu/willett/) & [Yuxin Chen](https://yuxinchen.org/)
-[CMSC31230: Fundamentals of Deep Learning](https://mcallester.github.io/ttic-31230/Fall2020/) [Autumn 2020] [notes](https://mcallester.github.io/ttic-31230/)
+* **University of Chicago**  
+[CMSC35300: Mathematical Foundations of Machine Learning](https://voices.uchicago.edu/willett/teaching/mathematical-foundations-of-machine-learning-fall-2020/) [Autumn 2020] by [Rebecca Willett](https://voices.uchicago.edu/willett/)  
+[CMSC35400: Machine Learning](https://voices.uchicago.edu/machinelearning/stats37710-cmsc35400-s20/) [Spring 2020] by [Rebecca Willett](https://voices.uchicago.edu/willett/) & [Yuxin Chen](https://yuxinchen.org/)  
+[CMSC31230: Fundamentals of Deep Learning](https://mcallester.github.io/ttic-31230/Fall2020/) [Autumn 2020] [notes](https://mcallester.github.io/ttic-31230/)  
 
 * **Purdue University**  
 [STAT598: Machine Learning](https://engineering.purdue.edu/ChanGroup/ECE595/video.html) [Spring 2020] [YouTube](https://nanohub.org/resources/32203)
