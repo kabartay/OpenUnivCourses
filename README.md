@@ -62,6 +62,9 @@ FREE university courses in ML from Top Universities in CS
 * **Purdue University**  
 [STAT598: Machine Learning](https://engineering.purdue.edu/ChanGroup/ECE595/video.html) [Spring 2020] [YouTube](https://nanohub.org/resources/32203)
 
+* **Cornell University**  
+[CS4780: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/) [Autumn 2018] | [notes](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) | [YouTube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+
 
 **Archived**  
 
