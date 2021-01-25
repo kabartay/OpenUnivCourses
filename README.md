@@ -93,4 +93,10 @@ FREE university courses in ML from Top Universities in CS
 [Berkley Courses](https://www2.eecs.berkeley.edu/Courses/CS/)
 
 
+**Bonus: summer schools**    
+* [MIT](https://www.mit.edu/) & [UNIGE](https://unige.it/en) & [MALGA](https://ml.unige.it/)  
+[RegML: Regularization Methods for Machine Learning](http://lcsl.mit.edu/courses/regml/regml2020/) | [YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO) | [descirption](http://lcsl.mit.edu/courses/master/RegML/index.html)  
+[MLCC: Machine Learning Crash Course](http://lcsl.mit.edu/courses/mlcc/mlcc2020/) | [YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ4TgDuCDINRu8hOMw31gRj) | [description](http://lcsl.mit.edu/courses/master/MLCC/index.html)  
+
+
 **Kaggle discussion** [**here**](https://www.kaggle.com/getting-started/211633)
