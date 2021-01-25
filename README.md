@@ -24,9 +24,11 @@ FREE university courses in ML from Top Universities in CS
 
 * **Massachusetts Institute of Technology**  
 [MIT6.036: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/) [Autumn 2020]  
-[MIT6.S897: Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) [Spring 2019]  
 [MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2020/index.html) [Winter 2020]  
+[MIT6.S897: Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) [Spring 2019]  
+[MIT9.520: Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall19/) [Autumn 2020] | [YouTube](https://www.youtube.com/playlist?list=PLyGKBDfnk-iB4Xz_EAJNEgGF5I-6OzRNI)  
 [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/) [Winter 2020] by [Lex Fridman](https://lexfridman.com/)  
+
 
 * **Stanford University**  
 [CS229: Machine Learning](http://cs229.stanford.edu/) [Autumn 2020] by [Andrew Ng](https://www.andrewng.org/) | [video](https://see.stanford.edu/Course/CS229)   
@@ -38,7 +40,7 @@ FREE university courses in ML from Top Universities in CS
 [CSC8: Foundations of Data Science](http://data8.org/) [Autumn 2020]  
 [CS61B: Data Structures](https://fa20.datastructur.es/) [Autumn 2020]  
 [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp19/) [Spring 2019]  
-[CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) [Autumn 2020] [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) | [video](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)  
+[CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) [Autumn 2020] | [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) | [video](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)  
 [CS288: Natural Language Processing](https://cal-cs288.github.io/sp20/) [Spring 2020]  
 
 * **New York University**  
@@ -57,13 +59,13 @@ FREE university courses in ML from Top Universities in CS
 * **University of Chicago**  
 [CMSC35300: Mathematical Foundations of Machine Learning](https://voices.uchicago.edu/willett/teaching/mathematical-foundations-of-machine-learning-fall-2020/) [Autumn 2020] by [Rebecca Willett](https://voices.uchicago.edu/willett/)  
 [CMSC35400: Machine Learning](https://voices.uchicago.edu/machinelearning/stats37710-cmsc35400-s20/) [Spring 2020] by [Rebecca Willett](https://voices.uchicago.edu/willett/) & [Yuxin Chen](https://yuxinchen.org/)  
-[CMSC31230: Fundamentals of Deep Learning](https://mcallester.github.io/ttic-31230/Fall2020/) [Autumn 2020] [notes](https://mcallester.github.io/ttic-31230/)  
+[CMSC31230: Fundamentals of Deep Learning](https://mcallester.github.io/ttic-31230/Fall2020/) [Autumn 2020] | [notes](https://mcallester.github.io/ttic-31230/)  
 
 * **Purdue University**  
-[STAT598: Machine Learning](https://engineering.purdue.edu/ChanGroup/ECE595/video.html) [Spring 2020] [YouTube](https://nanohub.org/resources/32203)
+[STAT598: Machine Learning](https://engineering.purdue.edu/ChanGroup/ECE595/video.html) [Spring 2020] | [YouTube](https://nanohub.org/resources/32203)
 
 * **Cornell University**  
-[CS4780: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/) [Autumn 2018] | [notes](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) | [YouTube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+[CS4780: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/) [Autumn 2018] | [YouTube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) | [notes](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/)  
 
 
 **Archived**  
