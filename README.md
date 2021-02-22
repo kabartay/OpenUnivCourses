@@ -42,6 +42,7 @@ FREE university courses in ML from Top Universities in CS
 [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp19/) [Spring 2019]  
 [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) [Autumn 2020] | [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) | [video](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)  
 [CS288: Natural Language Processing](https://cal-cs288.github.io/sp20/) [Spring 2020]  
+[CS294: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) [Spring 2020]  
 
 * **New York University**  
 [DSGA1008: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) [Spring 2020] by [Yann LeCun](http://yann.lecun.com/) & [Alfredo Canziani](https://www.linkedin.com/in/alfredocanziani/) | [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | [CDS](https://cds.nyu.edu/deep-learning/)  
