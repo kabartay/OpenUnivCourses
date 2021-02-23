@@ -1,42 +1,27 @@
 # OpenUnivCourses
 FREE university courses in ML from Top Universities in CS
 
-**Current**
-
 * **Massachusetts Institute of Technology**  
-[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) **register!**
-
-* **Stanford University**  
-[CS221:  Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/winter2021/) [Winter 2021]  
-[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) [Winter 2021]  
-[CS228:  Probabilistic Graphical Models](https://cs228.stanford.edu/) [Winter 2021]  
-[CS234:  Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) [Winter 2021]  
-
-* **Berkley University**  
-[CS61B: Data Structures](https://sp21.datastructur.es/) [Spring 2021]  
-[CS189: Introduction to Machine Learning](https://www.eecs189.org/) [Winter 2021]  
-
-* **Carnegie Mellon University**  
-[11-785: Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/S21/index.html) [Spring 2021]  
-
-
-**Recent**    
-
-* **Massachusetts Institute of Technology**  
-[MIT6.036: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/) [Autumn 2020]  
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) [<span style="color:#196F3D;">**Winter 2021**</span>]  
 [MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2020/index.html) [Winter 2020]  
+[MIT6.036: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/) [Autumn 2020]  
 [MIT6.S897: Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) [Spring 2019]  
 [MIT9.520: Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall19/) [Autumn 2020] | [YouTube](https://www.youtube.com/playlist?list=PLyGKBDfnk-iB4Xz_EAJNEgGF5I-6OzRNI)  
-[MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/) [Winter 2020] by [Lex Fridman](https://lexfridman.com/)  
-
+[MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/) [Winter 2020] by [Lex Fridman](https://lexfridman.com/)   
 
 * **Stanford University**  
+[CS221:  Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/winter2021/) [<span style="color:#196F3D;">**Winter 2021**</span>]  
+[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) [<span style="color:#196F3D;">**Winter 2021**</span>]  
+[CS228:  Probabilistic Graphical Models](https://cs228.stanford.edu/) <span style="color:#196F3D;">**Winter 2021**</span>]  
+[CS234:  Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) [<span style="color:#196F3D;">**Winter 2021**</span>]    
 [CS229: Machine Learning](http://cs229.stanford.edu/) [Autumn 2020] by [Andrew Ng](https://www.andrewng.org/) | [video](https://see.stanford.edu/Course/CS229)   
 [CS230: Deep Learning](https://cs230.stanford.edu/) [Spring 2020]  
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) [Autum 2018]  
 [CS236: Deep Generative Models](https://deepgenerativemodels.github.io/) [Autumn 2019]  
 
-* **University of California, Berkeley**  
+* **Berkley University**  
+[CS61B: Data Structures](https://sp21.datastructur.es/) [<span style="color:#196F3D;">**Spring 2021**</span>]  
+[CS189: Introduction to Machine Learning](https://www.eecs189.org/) [<span style="color:#196F3D;">**Winter 2021**</span>]  
 [CSC8: Foundations of Data Science](http://data8.org/) [Autumn 2020]  
 [CS61B: Data Structures](https://fa20.datastructur.es/) [Autumn 2020]  
 [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp19/) [Spring 2019]  
@@ -44,13 +29,17 @@ FREE university courses in ML from Top Universities in CS
 [CS288: Natural Language Processing](https://cal-cs288.github.io/sp20/) [Spring 2020]  
 [CS294: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) [Spring 2020]  
 
-* **New York University**  
-[DSGA1008: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) [Spring 2020] by [Yann LeCun](http://yann.lecun.com/) & [Alfredo Canziani](https://www.linkedin.com/in/alfredocanziani/) | [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | [CDS](https://cds.nyu.edu/deep-learning/)  
-
 * **Carnegie Mellon University**  
+[11-785: Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/S21/index.html) [Spring 2021]    
+[11-785: Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/F20/index.html) [Autumn 2020]  
+[11-785: Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/S20/index.html) [Spring 2020]  
 [10-703: Deep Reinforcement Learning](https://cmudeeprl.github.io/703website/) [Autumn 2020]  
 [11-611: Natural Language Processing](http://demo.clab.cs.cmu.edu/NLP/) [Autumn 2020]  
+[10-601: Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) [<span style="color:#F39C12;">**Spring 2015**</span>]  
 
+* **New York University**  
+[DSGA1008: Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) [Spring 2020] by [Yann LeCun](http://yann.lecun.com/) & [Alfredo Canziani](https://www.linkedin.com/in/alfredocanziani/) | [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | [CDS](https://cds.nyu.edu/deep-learning/)  
+ 
 * **University of Michigan**  
 [EECS598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/) [Autumn 2020] | [YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)   
 
@@ -67,12 +56,6 @@ FREE university courses in ML from Top Universities in CS
 
 * **Cornell University**  
 [CS4780: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/) [Autumn 2018] | [YouTube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) | [notes](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/)  
-
-
-**Archived**  
-
-* **Carnegie Mellon University**  
-[10-601: Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) [Spring 2015]  
 
 * **University of Oxford**  
 [Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) [2014/2015]  
