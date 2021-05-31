@@ -22,10 +22,10 @@ FREE university courses in ML from Top Universities in CS
 * **Berkley University**  
 [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/) [**Spring 2021**]  
 [CSC08: Foundations of Data Science](http://data8.org/sp21/) [**Spring 2021**]  
-[CSC08: Foundations of Data Science](http://data8.org/fa20/) [Autumn 2020]
-[CS61B: Data Structures](https://sp21.datastructur.es/) [**Spring 2021**]  
+[CSC08: Foundations of Data Science](http://data8.org/fa20/) [Autumn 2020]  
+[CS61B: Data Structures](https://sp21.datastructur.es/) [**Spring 2021**]    
 [CS61B: Data Structures](https://fa20.datastructur.es/) [Autumn 2020]  
-[CS182: Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp21.github.io/) [**Spring 2021**]  
+[CS182: Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp21.github.io/) [**Spring 2021**]    
 [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp19/) [Spring 2019]  
 [CS189: Introduction to Machine Learning](https://www.eecs189.org/) [**Winter 2021**]    
 [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) [Autumn 2020] | [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) | [video](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)  
