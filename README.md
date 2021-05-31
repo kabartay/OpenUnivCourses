@@ -20,6 +20,7 @@ FREE university courses in ML from Top Universities in CS
 [CS236: Deep Generative Models](https://deepgenerativemodels.github.io/) [Autumn 2019]  
 
 * **Berkley University**  
+[Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/) [**Spring 2021**]  
 [CSC08: Foundations of Data Science](http://data8.org/sp21/) [**Spring 2021**]  
 [CSC08: Foundations of Data Science](http://data8.org/fa20/) [Autumn 2020]
 [CS61B: Data Structures](https://sp21.datastructur.es/) [**Spring 2021**]  
