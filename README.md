@@ -2,7 +2,10 @@
 FREE university courses in ML from Top Universities in CS
 
 * **Massachusetts Institute of Technology**  
-[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) [**Winter 2021**]  
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) [**Winter 2024**]
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2023/index.html) [Winter 2023]  
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2022/index.html) [Winter 2022]
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2021/index.html) [Winter 2021]  
 [MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2020/index.html) [Winter 2020]  
 [MIT6.036: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/) [Autumn 2020]  
 [MIT6.S897: Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) [Spring 2019]  
