@@ -2,38 +2,49 @@
 FREE university courses in ML from Top Universities in CS
 
 * **Massachusetts Institute of Technology**  
-[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) [**Winter 2021**]  
-[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2020/index.html) [Winter 2020]  
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) [**Winter 2024**]  
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2023/index.html) [Winter 2023]   
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2022/index.html) [Winter 2022]  
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2021/index.html) [Winter 2021]    
+[MIT6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/2020/index.html) [Winter 2020]    
 [MIT6.036: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/) [Autumn 2020]  
 [MIT6.S897: Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) [Spring 2019]  
 [MIT9.520: Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall19/) [Autumn 2020] | [YouTube](https://www.youtube.com/playlist?list=PLyGKBDfnk-iB4Xz_EAJNEgGF5I-6OzRNI)  
 [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/) [Winter 2020] by [Lex Fridman](https://lexfridman.com/)   
 
-* **Stanford University**  
-[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/winter2021/) [**Winter 2021**]  
-[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) [**Winter 2021**]  
-[CS228: Probabilistic Graphical Models](https://cs228.stanford.edu/) [**Winter 2021**]  
+* **Stanford University**
+[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) [**Winter 2024**]
+[CS228: Probabilistic Graphical Models](https://cs228.stanford.edu/) [**Winter 2024**]  
+[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/autumn2023/) [Autumn 2023]
+[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/summer2023/) [Summer 2023]  
+[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/spring2023/) [Spring 2023]  
+[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/autumn2022/) [Autumn 2022]
+[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/spring2022/) [Spring 2022]    
+[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/autumn2021/) [Autumn 2021]
+[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/spring2021/) [Spring 2021]       
+[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/winter2021/) [Winter 2021]
+[CS221: Artificial Intelligence. Principles and Techniques](https://stanford-cs221.github.io/autumn2020/) [Autumn 2020]  
 [CS229: Machine Learning](http://cs229.stanford.edu/) [Autumn 2020] by [Andrew Ng](https://www.andrewng.org/) | [video](https://see.stanford.edu/Course/CS229)  
 [CS230: Deep Learning](https://cs230.stanford.edu/) [Spring 2020]  
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) [Autum 2018]  
-[CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) [**Winter 2021**]  
+[CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) [Winter 2021]  
 [CS236: Deep Generative Models](https://deepgenerativemodels.github.io/) [Autumn 2019]  
 
 * **Berkley University**  
-[Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/) [**Spring 2021**]  
-[CSC08: Foundations of Data Science](http://data8.org/sp21/) [**Spring 2021**]  
+[Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/) [Spring 2021]  
+[CSC08: Foundations of Data Science](http://data8.org/sp21/) [Spring 2021]  
 [CSC08: Foundations of Data Science](http://data8.org/fa20/) [Autumn 2020]  
-[CS61B: Data Structures](https://sp21.datastructur.es/) [**Spring 2021**]    
+[CS61B: Data Structures](https://sp21.datastructur.es/) [Spring 2021]    
 [CS61B: Data Structures](https://fa20.datastructur.es/) [Autumn 2020]  
-[CS182: Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp21.github.io/) [**Spring 2021**]    
+[CS182: Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp21.github.io/) [Spring 2021]    
 [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp19/) [Spring 2019]  
-[CS189: Introduction to Machine Learning](https://www.eecs189.org/) [**Winter 2021**]    
+[CS189: Introduction to Machine Learning](https://www.eecs189.org/) [Winter 2021]    
 [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) [Autumn 2020] | [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) | [video](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)  
 [CS288: Natural Language Processing](https://cal-cs288.github.io/sp20/) [Spring 2020]  
 [CS294: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home) [Spring 2020]  
 
 * **Carnegie Mellon University**  
-[11-785: Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/S21/index.html) [**Spring 2021**]    
+[11-785: Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/S21/index.html) [Spring 2021]    
 [11-785: Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/F20/index.html) [Autumn 2020]  
 [11-785: Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/S20/index.html) [Spring 2020]  
 [10-703: Deep Reinforcement Learning](https://cmudeeprl.github.io/703website/) [Autumn 2020]  
@@ -72,12 +83,3 @@ FREE university courses in ML from Top Universities in CS
 [MIT Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library)  
 [Stanford Online](https://online.stanford.edu/search-catalog)   
 [Berkley Courses](https://www2.eecs.berkeley.edu/Courses/CS/)  
-
-
-**Bonus: summer schools**    
-* [MIT](https://www.mit.edu/) & [UniGe](https://unige.it/en) & [MaLGa](https://ml.unige.it/)  
-[RegML: Regularization Methods for Machine Learning](http://lcsl.mit.edu/courses/regml/regml2020/) | [YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO) | [descirption](http://lcsl.mit.edu/courses/master/RegML/index.html)  
-[MLCC: Machine Learning Crash Course](http://lcsl.mit.edu/courses/mlcc/mlcc2020/) | [YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ4TgDuCDINRu8hOMw31gRj) | [description](http://lcsl.mit.edu/courses/master/MLCC/index.html)  
-
-
-**Kaggle discussion** [**here**](https://www.kaggle.com/getting-started/211633)
