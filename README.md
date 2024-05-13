@@ -54,12 +54,23 @@ FREE university courses in ML from Top Universities in CS
     [2020D](https://stanford-cs221.github.io/autumn2020/)  
 
 * **Berkley University**  
-  Full Stack Deep Learning [2021](https://fullstackdeeplearning.com/spring2021/)  
-  CS294: Deep Unsupervised Learning [2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)  
+  Full Stack Deep Learning
+    [2022](https://fullstackdeeplearning.com/course/2022/)
+    [2021](https://fullstackdeeplearning.com/spring2021/)  
+  CS294: Deep Unsupervised Learning
+    [2024](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
+    [2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+    [2019](https://sites.google.com/view/berkeley-cs294-158-sp29/home)    
   CS288: Natural Language Processing [2020](https://cal-cs288.github.io/sp20/)  
   CS285: Deep Reinforcement Learning [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) [video](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A) [2020](http://rail.eecs.berkeley.edu/deeprlcourse/)  
   CS189: Introduction to Machine Learning [2021](https://www.eecs189.org/)  
-  CS188: Introduction to Artificial Intelligence [2019](https://inst.eecs.berkeley.edu/~cs188/sp19/)  
+  CS188: Introduction to Artificial Intelligence
+    [2024](https://inst.eecs.berkeley.edu/~cs188/sp24/)
+    [2023](https://inst.eecs.berkeley.edu/~cs188/sp23/)
+    [2022](https://inst.eecs.berkeley.edu/~cs188/sp22/)
+    [2021](https://inst.eecs.berkeley.edu/~cs188/sp21/)
+    [2020](https://inst.eecs.berkeley.edu/~cs188/sp20/)
+    [2019](https://inst.eecs.berkeley.edu/~cs188/sp19/)  
   CS182: Designing, Visualizing and Understanding Deep Neural Networks [2021](https://cs182sp21.github.io/)  
   CS61B: Data Structures
     [2021](https://sp21.datastructur.es/)
@@ -67,8 +78,6 @@ FREE university courses in ML from Top Universities in CS
   CSC08: Foundations of Data Science
     [2021](http://data8.org/sp21/)
     [2020](http://data8.org/fa20/)  
-  
-  
 
 * **Carnegie Mellon University**  
   11-785: Introduction to Deep Learning
@@ -80,11 +89,16 @@ FREE university courses in ML from Top Universities in CS
   10-601: Machine Learning [2015](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)  
 
 * **New York University**   
-  DSGA1008: Deep Learning by Yann LeCun & Alfredo Canziani [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) [CDS](https://cds.nyu.edu/deep-learning/) [2020](https://atcold.github.io/pytorch-Deep-Learning/)  
+  DSGA1008: Deep Learning by Yann LeCun & Alfredo Canziani
+    [2021](https://atcold.github.io/NYU-DLSP21/)
+    [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+    [2020](https://atcold.github.io/NYU-DLSP20/)
+    [YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
  
 * **University of Michigan**  
-  EECS598-005: Deep Learning for Computer Vision [YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+  EECS598-005: Deep Learning for Computer Vision
     [2020](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
+    [YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 * **University of Pennsylvania**  
   CIS520: Machine Learning [2020](https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Lectures.Lectures) [notes](https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Resources.Resources)  
@@ -94,11 +108,13 @@ CMSC35300: Mathematical Foundations of Machine Learning by Rebecca Willett
   [2020](https://voices.uchicago.edu/willett/teaching/mathematical-foundations-of-machine-learning-fall-2020/)  
 CMSC35400: Machine Learning by Rebecca Willett & Yuxin Chen
   [2020](https://voices.uchicago.edu/machinelearning/stats37710-cmsc35400-s20/)    
-CMSC31230: Fundamentals of Deep Learning [2020](https://mcallester.github.io/ttic-31230/Fall2020/) [notes](https://mcallester.github.io/ttic-31230/)  
+CMSC31230: Fundamentals of Deep Learning
+  [2020](https://mcallester.github.io/ttic-31230/Fall2020/) [notes](https://mcallester.github.io/ttic-31230/)  
 
 * **Purdue University**  
-  STAT598: Machine Learning [YouTube](https://nanohub.org/resources/32203)
+  STAT598: Machine Learning 
   [2020](https://engineering.purdue.edu/ChanGroup/ECE595/video.html)
+  [YouTube](https://nanohub.org/resources/32203)
 
 * **Cornell University**     
   CS4780: Machine Learning for Intelligent Systems [YouTube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) | [notes](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/)
