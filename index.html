@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FREE ML Courses from Top Universities</title>
-    <meta name="description" content="Curated collection of free Machine Learning courses from MIT, Stanford, Berkeley, CMU and other top universities.">
-    <meta name="keywords" content="machine learning, courses, free, MIT, Stanford, Berkeley, CMU, AI, deep learning">
     <style>
         * {
             margin: 0;
@@ -43,6 +41,7 @@
             background: linear-gradient(135deg, #667eea, #764ba2);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            background-clip: text;
             margin-bottom: 10px;
         }
         
@@ -249,6 +248,25 @@
                 gap: 20px;
             }
         }
+
+        @media (max-width: 480px) {
+            .header h1 {
+                font-size: 1.8rem;
+            }
+            
+            .university-section {
+                padding: 20px;
+            }
+            
+            .course-links {
+                gap: 6px;
+            }
+            
+            .course-link {
+                padding: 6px 12px;
+                font-size: 0.8rem;
+            }
+        }
     </style>
 </head>
 <body>
@@ -383,22 +401,6 @@
                             <a href="https://deepgenerativemodels.github.io/" class="course-link">2023</a>
                         </div>
                     </div>
-                    <div class="course-card">
-                        <div class="course-title">CS228: Probabilistic Graphical Models</div>
-                        <div class="course-description">Fundamental concepts in probabilistic graphical models including Bayesian networks, Markov random fields, and inference algorithms.</div>
-                        <div class="course-links">
-                            <a href="https://cs228.stanford.edu/" class="course-link">2024</a>
-                        </div>
-                    </div>
-                    <div class="course-card">
-                        <div class="course-title">CS221: Artificial Intelligence. Principles and Techniques</div>
-                        <div class="course-description">Introduction to AI principles including search, constraint satisfaction, game playing, machine learning, and logical reasoning.</div>
-                        <div class="course-links">
-                            <a href="https://stanford-cs221.github.io/autumn2023/" class="course-link">2023D</a>
-                            <a href="https://stanford-cs221.github.io/summer2023/" class="course-link">2023C</a>
-                            <a href="https://stanford-cs221.github.io/spring2023/" class="course-link">2023B</a>
-                        </div>
-                    </div>
                 </div>
             </div>
 
@@ -427,26 +429,11 @@
                         </div>
                     </div>
                     <div class="course-card">
-                        <div class="course-title">CS189: Introduction to Machine Learning</div>
-                        <div class="course-description">Mathematical foundations of machine learning including linear algebra, optimization, and statistical learning theory.</div>
-                        <div class="course-links">
-                            <a href="https://www.eecs189.org/" class="course-link">2021</a>
-                        </div>
-                    </div>
-                    <div class="course-card">
                         <div class="course-title">Full Stack Deep Learning</div>
                         <div class="course-description">Practical course on deploying deep learning systems in production, covering MLOps, monitoring, and scaling ML applications.</div>
                         <div class="course-links">
                             <a href="https://fullstackdeeplearning.com/course/2022/" class="course-link">2022</a>
                             <a href="https://fullstackdeeplearning.com/spring2021/" class="course-link">2021</a>
-                        </div>
-                    </div>
-                    <div class="course-card">
-                        <div class="course-title">CS294: Deep Unsupervised Learning</div>
-                        <div class="course-description">Advanced course on unsupervised learning methods including autoencoders, VAEs, GANs, and self-supervised learning.</div>
-                        <div class="course-links">
-                            <a href="https://sites.google.com/view/berkeley-cs294-158-sp24/home" class="course-link">2024</a>
-                            <a href="https://sites.google.com/view/berkeley-cs294-158-sp20/home" class="course-link">2020</a>
                         </div>
                     </div>
                 </div>
@@ -482,13 +469,6 @@
                             <a href="http://demo.clab.cs.cmu.edu/NLP/" class="course-link">2020</a>
                         </div>
                     </div>
-                    <div class="course-card">
-                        <div class="course-title">10-601: Machine Learning</div>
-                        <div class="course-description">Foundational machine learning course covering supervised and unsupervised learning algorithms with mathematical rigor.</div>
-                        <div class="course-links">
-                            <a href="http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml" class="course-link">2015</a>
-                        </div>
-                    </div>
                 </div>
             </div>
 
@@ -507,110 +487,6 @@
                             <a href="https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI" class="course-link youtube-link">YouTube 2021</a>
                             <a href="https://atcold.github.io/NYU-DLSP20/" class="course-link">2020</a>
                             <a href="https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq" class="course-link youtube-link">YouTube 2020</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- University of Michigan -->
-            <div class="university-section" data-university="michigan">
-                <div class="university-header">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Michigan_Wolverines_logo.svg/120px-Michigan_Wolverines_logo.svg.png" alt="University of Michigan Logo" class="university-logo">
-                    <h2 class="university-name">University of Michigan</h2>
-                </div>
-                <div class="courses-grid">
-                    <div class="course-card">
-                        <div class="course-title">EECS598-005: Deep Learning for Computer Vision</div>
-                        <div class="course-description">Comprehensive computer vision course covering CNNs, object detection, semantic segmentation, and modern vision architectures.</div>
-                        <div class="course-links">
-                            <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/" class="course-link">2020</a>
-                            <a href="https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r" class="course-link youtube-link">YouTube</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- University of Chicago -->
-            <div class="university-section" data-university="chicago">
-                <div class="university-header">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/University_of_Chicago_shield.svg/120px-University_of_Chicago_shield.svg.png" alt="University of Chicago Logo" class="university-logo">
-                    <h2 class="university-name">University of Chicago</h2>
-                </div>
-                <div class="courses-grid">
-                    <div class="course-card">
-                        <div class="course-title">CMSC35300: Mathematical Foundations of Machine Learning</div>
-                        <div class="course-description">Rigorous mathematical treatment of machine learning covering optimization, statistical learning theory, and theoretical foundations.</div>
-                        <div class="course-links">
-                            <a href="https://voices.uchicago.edu/willett/teaching/mathematical-foundations-of-machine-learning-fall-2020/" class="course-link">2020</a>
-                        </div>
-                    </div>
-                    <div class="course-card">
-                        <div class="course-title">CMSC35400: Machine Learning</div>
-                        <div class="course-description">Comprehensive machine learning course covering supervised and unsupervised learning with practical implementations and theory.</div>
-                        <div class="course-links">
-                            <a href="https://voices.uchicago.edu/machinelearning/stats37710-cmsc35400-s20/" class="course-link">2020</a>
-                        </div>
-                    </div>
-                    <div class="course-card">
-                        <div class="course-title">CMSC31230: Fundamentals of Deep Learning</div>
-                        <div class="course-description">Deep learning fundamentals covering neural networks, backpropagation, and modern architectures with theoretical insights.</div>
-                        <div class="course-links">
-                            <a href="https://mcallester.github.io/ttic-31230/Fall2020/" class="course-link">2020</a>
-                            <a href="https://mcallester.github.io/ttic-31230/" class="course-link">Notes</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Cornell University -->
-            <div class="university-section" data-university="cornell">
-                <div class="university-header">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/120px-Cornell_University_seal.svg.png" alt="Cornell University Logo" class="university-logo">
-                    <h2 class="university-name">Cornell University</h2>
-                </div>
-                <div class="courses-grid">
-                    <div class="course-card">
-                        <div class="course-title">CS4780: Machine Learning for Intelligent Systems</div>
-                        <div class="course-description">Comprehensive machine learning course covering algorithms, theory, and applications with focus on intelligent systems and practical implementations.</div>
-                        <div class="course-links">
-                            <a href="https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS" class="course-link youtube-link">YouTube</a>
-                            <a href="https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/" class="course-link">Notes</a>
-                            <a href="http://www.cs.cornell.edu/courses/cs4780/2018fa/" class="course-link">2018</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- University of Pennsylvania -->
-            <div class="university-section" data-university="upenn">
-                <div class="university-header">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/120px-UPenn_shield_with_banner.svg.png" alt="University of Pennsylvania Logo" class="university-logo">
-                    <h2 class="university-name">University of Pennsylvania</h2>
-                </div>
-                <div class="courses-grid">
-                    <div class="course-card">
-                        <div class="course-title">CIS520: Machine Learning</div>
-                        <div class="course-description">Fundamental machine learning algorithms and theory covering supervised learning, unsupervised learning, and statistical inference.</div>
-                        <div class="course-links">
-                            <a href="https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Lectures.Lectures" class="course-link">2020</a>
-                            <a href="https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Resources.Resources" class="course-link">Notes</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- University of Oxford -->
-            <div class="university-section" data-university="oxford">
-                <div class="university-header">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Oxford-University-Circlet.svg/120px-Oxford-University-Circlet.svg.png" alt="University of Oxford Logo" class="university-logo">
-                    <h2 class="university-name">University of Oxford</h2>
-                </div>
-                <div class="courses-grid">
-                    <div class="course-card">
-                        <div class="course-title">Machine Learning</div>
-                        <div class="course-description">Classical machine learning course covering fundamental algorithms, probabilistic methods, and theoretical foundations by renowned Oxford faculty.</div>
-                        <div class="course-links">
-                            <a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/" class="course-link">2014</a>
                         </div>
                     </div>
                 </div>
