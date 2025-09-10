@@ -1,4 +1,4 @@
-/* OpenUnivCourses - Main Styles */
+/* OpenUnivCourses - Main Styles - Fixed Version */
 
 * {
     margin: 0;
@@ -6,26 +6,11 @@
     box-sizing: border-box;
 }
 
-:root {
-    --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    --accent-gradient: linear-gradient(135deg, #ff4757, #ff3838);
-    --text-primary: #2c3e50;
-    --text-secondary: #666;
-    --background-white: rgba(255, 255, 255, 0.95);
-    --background-overlay: rgba(255, 255, 255, 0.1);
-    --shadow-light: 0 10px 25px rgba(0, 0, 0, 0.08);
-    --shadow-medium: 0 20px 40px rgba(0, 0, 0, 0.1);
-    --shadow-heavy: 0 25px 50px rgba(0, 0, 0, 0.15);
-    --border-radius: 15px;
-    --border-radius-large: 20px;
-    --transition: all 0.3s ease;
-}
-
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
-    color: var(--text-primary);
-    background: var(--primary-gradient);
+    color: #333;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
 }
 
@@ -39,17 +24,16 @@ body {
 .header {
     text-align: center;
     margin-bottom: 40px;
-    background: var(--background-white);
-    backdrop-filter: blur(10px);
-    border-radius: var(--border-radius-large);
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 20px;
     padding: 40px 20px;
-    box-shadow: var(--shadow-medium);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
 }
 
 .header h1 {
     font-size: 3rem;
     font-weight: 800;
-    background: var(--primary-gradient);
+    background: linear-gradient(135deg, #667eea, #764ba2);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -58,7 +42,7 @@ body {
 
 .header p {
     font-size: 1.2rem;
-    color: var(--text-secondary);
+    color: #666;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -76,13 +60,13 @@ body {
     font-size: 16px;
     border: none;
     border-radius: 50px;
-    box-shadow: var(--shadow-light);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
     outline: none;
-    transition: var(--transition);
+    transition: all 0.3s ease;
 }
 
 .search-bar input:focus {
-    box-shadow: var(--shadow-medium);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
     transform: translateY(-2px);
 }
 
@@ -103,17 +87,16 @@ body {
 /* University Sections */
 .university-section {
     margin-bottom: 40px;
-    background: var(--background-white);
-    backdrop-filter: blur(10px);
-    border-radius: var(--border-radius-large);
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 20px;
     padding: 30px;
-    box-shadow: var(--shadow-medium);
-    transition: var(--transition);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
 }
 
 .university-section:hover {
     transform: translateY(-5px);
-    box-shadow: var(--shadow-heavy);
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
 }
 
 .university-header {
@@ -136,7 +119,7 @@ body {
 .university-name {
     font-size: 1.8rem;
     font-weight: 700;
-    color: var(--text-primary);
+    color: #2c3e50;
 }
 
 /* Course Grid */
@@ -149,13 +132,11 @@ body {
 /* Course Cards */
 .course-card {
     background: #fff;
-    border-radius: var(--border-radius);
+    border-radius: 15px;
     padding: 25px;
-    box-shadow: var(--shadow-light);
-    transition: var(--transition);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
     border-left: 4px solid transparent;
-    opacity: 0;
-    transform: translateY(20px);
 }
 
 .course-card:hover {
@@ -164,21 +145,16 @@ body {
     border-left-color: #667eea;
 }
 
-.course-card.loaded {
-    opacity: 1;
-    transform: translateY(0);
-}
-
 .course-title {
     font-size: 1.2rem;
     font-weight: 600;
-    color: var(--text-primary);
+    color: #2c3e50;
     margin-bottom: 10px;
     line-height: 1.4;
 }
 
 .course-description {
-    color: var(--text-secondary);
+    color: #666;
     font-size: 0.95rem;
     margin-bottom: 15px;
     line-height: 1.5;
@@ -195,13 +171,13 @@ body {
 .course-link {
     display: inline-block;
     padding: 8px 16px;
-    background: var(--primary-gradient);
+    background: linear-gradient(135deg, #667eea, #764ba2);
     color: white;
     text-decoration: none;
     border-radius: 20px;
     font-size: 0.85rem;
     font-weight: 500;
-    transition: var(--transition);
+    transition: all 0.3s ease;
 }
 
 .course-link:hover {
@@ -209,11 +185,11 @@ body {
     box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
 }
 
-.course-link.youtube-link {
-    background: var(--accent-gradient);
+.youtube-link {
+    background: linear-gradient(135deg, #ff4757, #ff3838);
 }
 
-.course-link.youtube-link:hover {
+.youtube-link:hover {
     box-shadow: 0 8px 20px rgba(255, 71, 87, 0.4);
 }
 
@@ -223,9 +199,8 @@ body {
     justify-content: center;
     gap: 40px;
     margin: 40px 0;
-    background: var(--background-overlay);
-    backdrop-filter: blur(10px);
-    border-radius: var(--border-radius);
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
     padding: 20px;
 }
 
@@ -250,36 +225,37 @@ body {
     text-align: center;
     margin-top: 40px;
     padding: 30px;
-    background: var(--background-overlay);
-    backdrop-filter: blur(10px);
-    border-radius: var(--border-radius);
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
     color: white;
 }
 
 .footer a {
     color: #fff;
     text-decoration: underline;
-    transition: var(--transition);
+    transition: all 0.3s ease;
 }
 
 .footer a:hover {
     opacity: 0.8;
 }
 
-/* Loading Animation */
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+/* Skip link for accessibility */
+.skip-link {
+    position: absolute;
+    top: -40px;
+    left: 6px;
+    background: #000;
+    color: #fff;
+    padding: 8px;
+    z-index: 1000;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: all 0.3s ease;
 }
 
-.fade-in-up {
-    animation: fadeInUp 0.6s ease forwards;
+.skip-link:focus {
+    top: 6px;
 }
 
 /* Responsive Design */
@@ -348,71 +324,5 @@ body {
     .course-link {
         padding: 6px 12px;
         font-size: 0.8rem;
-    }
-}
-
-/* High contrast mode support */
-@media (prefers-contrast: high) {
-    .course-card {
-        border: 2px solid #333;
-    }
-    
-    .course-link {
-        border: 1px solid rgba(255, 255, 255, 0.3);
-    }
-}
-
-/* Reduced motion support */
-@media (prefers-reduced-motion: reduce) {
-    *,
-    *::before,
-    *::after {
-        animation-duration: 0.01ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: 0.01ms !important;
-    }
-}
-
-/* Dark mode support */
-@media (prefers-color-scheme: dark) {
-    :root {
-        --text-primary: #e0e6ed;
-        --text-secondary: #a0a6ab;
-        --background-white: rgba(30, 35, 42, 0.95);
-    }
-    
-    .course-card {
-        background: #1a1f26;
-        color: var(--text-primary);
-    }
-    
-    .search-bar input {
-        background: #1a1f26;
-        color: var(--text-primary);
-    }
-    
-    .search-bar input::placeholder {
-        color: #666;
-    }
-}
-
-/* Print styles */
-@media print {
-    body {
-        background: white;
-        color: black;
-    }
-    
-    .header,
-    .university-section,
-    .course-card {
-        background: white;
-        box-shadow: none;
-        border: 1px solid #ddd;
-    }
-    
-    .search-bar,
-    .stats {
-        display: none;
     }
 }
