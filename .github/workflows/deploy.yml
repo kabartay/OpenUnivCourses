@@ -25,7 +25,7 @@ jobs:
         npm install -g html-validate
         
         # Validate index.html
-        html-validate index.html || echo "HTML validation completed with warnings"
+        html-validate index.html --config .github/html-validate-config.json || echo "HTML validation completed with warnings"
         
     - name: Check Links
       run: |
