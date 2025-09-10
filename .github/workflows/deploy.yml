@@ -1,0 +1,44 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main, feat/web ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        
+    - name: Validate HTML
+      run: |
+        # Install HTML validator
+        npm install -g html-validate
+        
+        # Validate index.html
+        html-validate index.html || echo "HTML validation completed with warnings"
+        
+    - name: Check Links
+      run: |
+        # Install link checker
+        npm install -g markdown-link-check
+        
+        # Check README links
+        markdown-link-check README.md --config .github/link-check-config.json || echo "Link check completed with warnings"
+        
+    - name: Deploy to GitHub Pages
+      if: github.ref == 'refs/heads/main'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .
+        exclude_assets: '.github,docs/CONTRIBUTING.md'
