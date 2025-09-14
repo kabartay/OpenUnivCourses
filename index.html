@@ -5,14 +5,19 @@
     <!-- Lowercase guard. -->
     <script>
     (function () {
-        // If anything navigates to the uppercase path, immediately correct it.
-        var up = "/OpenUnivCourses/";
-        if (location.pathname.startsWith(up)) {
-            location.replace(location.pathname.replace(up, "/openunivcourses/") + location.search + location.hash);
+        var segs = location.pathname.split("/");
+        if (segs.length > 1) {
+            var lower = (segs[1] || "").toLowerCase();
+            if (segs[1] !== lower) {
+            segs[1] = lower;
+            location.replace(segs.join("/") + location.search + location.hash);
+            }
         }
     })();
     </script>
 
+   <!-- Lock all relative URLs to the lowercase project path -->
+   <base href="/openunivcourses/">
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
