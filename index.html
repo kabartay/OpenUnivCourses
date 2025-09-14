@@ -304,8 +304,8 @@
                 <span class="stat-label">Courses</span>
             </div>
             <div class="stat">
-                <span class="stat-number">10</span>
-                <span class="stat-label">Universities</span>
+            <span class="stat-number" id="uniCount">0</span>
+            <span class="stat-label">Universities</span>
             </div>
             <div class="stat">
                 <span class="stat-number">100%</span>
@@ -545,7 +545,7 @@
                     </div>
                     <div class="course-card">
                         <div class="course-title">CS 188: Introduction to Artificial Intelligence</div>
-                        <div class="course-description">Foundational AI course covering search algorithms, game theory, constraint satisfaction, machine learning, and AI ethics.</div>
+                        <div class="course-description">Foundational course that covers search algorithms, game theory, constraint satisfaction, machine learning, and artificial intelligence ethics.</div>
                         <div class="course-links">
                             <a href="https://inst.eecs.berkeley.edu/~cs188/sp25/" class="course-link">2025</a>
                             <a href="https://inst.eecs.berkeley.edu/~cs188/sp24/" class="course-link">2024</a>
@@ -580,7 +580,7 @@
                     </div>
                     <div class="course-card">
                         <div class="course-title">CS 182: Designing, Visualizing and Understanding Deep Neural Networks</div>
-                        <div class="course-description">An advanced course that covers the ground from principles to designing, visualizing and understanding deep neural networks.</div>
+                        <div class="course-description">An advanced course that covers the ground from principles to designing, visualization and understanding of deep neural networks.</div>
                         <div class="course-links">
                             <a href="https://youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A&si=3-I__Zy6zQ2cXYB-" class="course-link youtube-link">YT21</a>
                             <a href="https://cs182sp22.github.io/" class="course-link">2022</a>
@@ -589,7 +589,7 @@
                     </div>
                     <div class="course-card">
                         <div class="course-title">CSC 08: Foundations of Data Science</div>
-                        <div class="course-description">Foundations of data science course that combines concepts of inferential thinking, computational thinking, and real-world relevance.</div>
+                        <div class="course-description">Foundational course that combines concepts of inferential thinking, computational thinking, and topics of real-world relevance.</div>
                         <div class="course-links">
                             <!-- https://www.data8.org/ -->
                             <a href="https://www.data8.org/fa25/" class="course-link">2025</a>
@@ -654,18 +654,6 @@
                         </div>
                     </div>
                     <div class="course-card">
-                        <div class="course-title">CMU 11-777: MultiModal Machine Learning</div>
-                        <div class="course-description">A vibrant multi-disciplinary research field that integrates and models multiple communicative modalities, including linguistic, acoustic, and visual messages.</div>
-                        <div class="course-links">
-                            <a href="https://youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW&si=hRmOxz26wNZ2riUD" class="course-link youtube-link">YT23</a>
-                            <a href="https://youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA&si=fPOV42WAzyj2QoSV" class="course-link youtube-link">YT22</a>
-                            <a href="https://youtube.com/playlist?list=PL-Fhd_vrvisNup9YQs_TdLW7DQz-lda0G&si=nDykRkuP8-W-2MOO" class="course-link youtube-link">YT20</a>
-                            <a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2023/" class="course-link">2023</a>
-                            <a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2022/" class="course-link">2022</a>
-                            <a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2020/" class="course-link">2020</a>
-                        </div>
-                    </div>
-                    <div class="course-card">
                         <div class="course-title">CMU 11-611: Natural Language Processing</div>
                         <div class="course-description">Comprehensive natural language processing course covering traditional and modern approaches to language understanding and generation.</div>
                         <div class="course-links">
@@ -716,6 +704,18 @@
                         <div class="course-links">
                             <a href="https://cmu-codegen.github.io/f2025/" class="course-link">2025</a>
                             <a href="https://cmu-codegen.github.io/s2024/" class="course-link">2024</a>
+                        </div>
+                    </div>
+                    <div class="course-card">
+                        <div class="course-title">CMU 11-777: MultiModal Machine Learning</div>
+                        <div class="course-description">A vibrant multi-disciplinary research field that integrates and models multiple communicative modalities, including linguistic, acoustic, and visual messages.</div>
+                        <div class="course-links">
+                            <a href="https://youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW&si=hRmOxz26wNZ2riUD" class="course-link youtube-link">YT23</a>
+                            <a href="https://youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA&si=fPOV42WAzyj2QoSV" class="course-link youtube-link">YT22</a>
+                            <a href="https://youtube.com/playlist?list=PL-Fhd_vrvisNup9YQs_TdLW7DQz-lda0G&si=nDykRkuP8-W-2MOO" class="course-link youtube-link">YT20</a>
+                            <a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2023/" class="course-link">2023</a>
+                            <a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2022/" class="course-link">2022</a>
+                            <a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2020/" class="course-link">2020</a>
                         </div>
                     </div>
                     <div class="course-card">
@@ -842,7 +842,24 @@
             });
         });
 
-        // Count total courses
+        const visibleCourses = Array.from(coursesContainer.querySelectorAll('.course-card'))
+            .filter(el => el.offsetParent !== null).length;
+        document.getElementById('totalCourses').textContent = visibleCourses;
+
+        const visibleUniversities = Array.from(coursesContainer.querySelectorAll('.university-section'))
+            .filter(el => el.offsetParent !== null).length;
+        document.getElementById('uniCount').textContent = visibleUniversities;
+
+        // Count total universities (from the section wrappers)
+        const uniSet = new Set(
+        Array.from(document.querySelectorAll('.university-section'))
+            .map(s => (s.dataset.university || s.querySelector('.university-name')?.textContent || "")
+            .trim().toLowerCase())
+            .filter(Boolean)
+        );
+        document.getElementById('uniCount').textContent = uniSet.size;
+
+        // Count total courses (from data attribute on cards)
         const totalCourses = document.querySelectorAll('.course-card').length;
         document.getElementById('totalCourses').textContent = totalCourses;
 
