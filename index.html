@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+    <!-- Lowercase guard. -->
+    <script>
+    (function () {
+        // If anything navigates to the uppercase path, immediately correct it.
+        var up = "/OpenUnivCourses/";
+        if (location.pathname.startsWith(up)) {
+            location.replace(location.pathname.replace(up, "/openunivcourses/") + location.search + location.hash);
+        }
+    })();
+    </script>
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FREE ML Courses from Top Universities</title>
