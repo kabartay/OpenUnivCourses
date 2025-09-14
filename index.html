@@ -865,13 +865,16 @@
             });
         });
 
-        const visibleCourses = Array.from(coursesContainer.querySelectorAll('.course-card'))
-            .filter(el => el.offsetParent !== null).length;
-        document.getElementById('totalCourses').textContent = visibleCourses;
+        const visibleUniversities = [...document.querySelectorAll('.university-section')]
+        .filter(s => s.style.display !== 'none').length;
 
-        const visibleUniversities = Array.from(coursesContainer.querySelectorAll('.university-section'))
-            .filter(el => el.offsetParent !== null).length;
+        const visibleCourses = [...document.querySelectorAll('.university-section')]
+        .filter(s => s.style.display !== 'none')
+        .flatMap(s => [...s.querySelectorAll('.course-card')].filter(c => c.style.display !== 'none'))
+        .length;
+
         document.getElementById('uniCount').textContent = visibleUniversities;
+        document.getElementById('totalCourses').textContent = visibleCourses;
 
         // Count total universities (from the section wrappers)
         const uniSet = new Set(
