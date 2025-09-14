@@ -49,17 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Contributors who help maintain and expand this collection
 - **Claude (Anthropic)** and **ChatGPT (OpenAI)** for assistance with website development and documentation
 
-## 💝 Support This Project
-
-If this collection has helped you in your ML journey, consider supporting the project:
-
-- ⭐ **Star this repository** to help others discover it
-- 🍕 **[Sponsor on GitHub](https://github.com/sponsors/kabartay)** to support ongoing maintenance (or other options)
-- 📢 **Share** with your network and fellow ML enthusiasts
-- 🤝 **Contribute** by adding new courses or reporting issues
-
-Your support helps keep this resource free and up-to-date for the entire ML community!
-
 ## 📞 Contact
 
 - **Portfolio**: [www.organokov.com](https://www.organokov.com)
@@ -70,7 +59,7 @@ Your support helps keep this resource free and up-to-date for the entire ML comm
 
 <div align="center">
 
-**[🌐 Browse Courses](https://kabartay.github.io/openunivcourses/) | [📚 Add a Course](https://github.com/kabartay/openunivcourses/issues/new) | [⭐ Star Repository](https://github.com/kabartay/openunivcourses/stargazers)**
+**[🌐 Browse Courses](https://kabartay.github.io/openunivcourses/) | [📚 Add a Course](https://github.com/kabartay/openunivcourses/issues/new) | [⭐ Star Repository](https://github.com/kabartay/openunivcourses/stargazers) | [📢  Share](https://kabartay.github.io/openunivcourses/) | [🍕 Sponsor on GitHub](https://github.com/sponsors/kabartay)**
 
 *Making quality ML education accessible to everyone*
 
